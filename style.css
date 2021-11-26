@@ -53,10 +53,10 @@
 
 .content {
     background-color: rgb(0, 238, 255);
-    width: 40%;
+    width: 46%;
     float: left;
     height: 500px;
-    margin: 0px 5%;
+    margin: 0px 2%;
 
 }
 
@@ -67,8 +67,8 @@
 }
 
 .colonne {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .clearfix {
